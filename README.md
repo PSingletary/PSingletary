@@ -4,3 +4,4 @@
    </h1>
 
    [![bsky: bsky](https://img.shields.io/badge/-psingletary.me-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/did:plc:stznz7qsokto2345qtdzogjb)]([https://bsky.app/profile/did:plc:stznz7qsokto2345qtdzogjb](https://bsky.app/profile/psingletary.me))
+   [![carrd: carrd](https://img.shields.io/badge/-psingletary.me-596CAF?style=flat-square&logo=carrd&logoColor=white&link=https://psingletary.me)]([https://psingletary.me](https://psingletary.me))
